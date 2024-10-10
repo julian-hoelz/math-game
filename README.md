@@ -1,6 +1,6 @@
-# Math Game
+# Math Game for the Action Day
 
-[To the Math Game page on my portfolio website](https://julian-hoelz.github.io/math-game.html?lang=en)
+[To the **Math Game for the Action Day** page on my portfolio website](https://julian-hoelz.github.io/math-game.html?lang=en)
 
 ## Explanation
 
